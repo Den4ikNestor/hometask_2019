@@ -1,0 +1,13 @@
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\bin\Debug\Laba1.exe.config
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\bin\Debug\Laba1.exe
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\bin\Debug\Laba1.pdb
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\bin\Debug\Npgsql.dll
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\obj\Debug\Laba1.Form1.resources
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\obj\Debug\Laba1.csproj.CopyComplete
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\obj\Debug\Laba1.exe
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\obj\Debug\Laba1.pdb
+D:\Александр\Documents\Cloud Mail.ru\Мирвода\Laba1\Laba1\bin\Debug\Mono.Security.dll
